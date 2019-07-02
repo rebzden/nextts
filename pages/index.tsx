@@ -7,9 +7,7 @@ export default class extends React.Component {
       color: red;
     `
     return (
-      <div>
-        <StyledHeader>Hello Net.js</StyledHeader>
-      </div>
+      <StyledHeader>Hello Next.js</StyledHeader>
     )
   }
 }
